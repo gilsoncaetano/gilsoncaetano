@@ -25,7 +25,7 @@
 <tr>
 <td align="center">Em Andamento</td>
 <td align="center">Tecnólogo em Análise e Desenvolvimento de Sistemas</td>
-<td align="center">Fatec Zona Leste</td>
+<td align="center">Faculdade Sena Santo Amaro</td>
 <td align="center">2022-2024</td>
 </tr>
 </tbody>
