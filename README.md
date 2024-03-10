@@ -5,6 +5,32 @@
 
 ![Gilson GitHub stats](https://github-readme-stats.vercel.app/api?username=gilsoncaetano&show_icons=true&theme=merko)
 
+## Corsos
+<table>
+<thead>
+<tr>
+<th align="center"><strong>Status</strong></th>
+<th align="center"><strong>Curso</strong></th>
+<th align="center"><strong>Instituição Educacional</strong></th>
+<th align="center"><strong>Ano</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Concluído</td>
+<td align="center">Técnico em Informática</td>
+<td align="center">Senac Tatuapé</td>
+<td align="center">2019-2021</td>
+</tr>
+<tr>
+<td align="center">Em Andamento</td>
+<td align="center">Tecnólogo em Análise e Desenvolvimento de Sistemas</td>
+<td align="center">Fatec Zona Leste</td>
+<td align="center">2022-2024</td>
+</tr>
+</tbody>
+</table>
+
 ## 💻 Tecnlogias e Ferramentas do meu Dia a Dia
 
 <div style="display: inline_block"><br/>
