@@ -1,4 +1,4 @@
-## Olá Eu sou o Gilson Caetano ![alt text](capacete-1.png)
+## Olá Eu sou o Gilson Caetano
 
 [![Site](https://img.shields.io/website?label=Web-Infra-Solucao.com&style=for-the-badge&url=https://web-infra.com)](link)\_
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-gilson-caetano-a74266169/)
