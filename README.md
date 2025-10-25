@@ -50,11 +50,13 @@ Suporte técnico e orientação às equipes internas, promovendo boas práticas 
 Gestão de infraestrutura física e lógica, incluindo cabeamento estruturado, switches, roteadores e firewalls (pfSense).
 Como responsável pela infraestrutura, atuo de forma estratégica para garantir que os recursos tecnológicos estejam sempre alinhados às necessidades operacionais e de segurança do Batalhão.
 
-🚀 Microsoft MCSA
-🚀 GNU/Linux LPI LPIC-2
-🚀 CompTIA LPIC-1
-🚀 Cisco CCAI/CCNA/CCNP
-🚀 Furukawa FCP
+"Principais Tecnologias e Ferramentas de Trabalho"
+
+"Linux Server, Windows Server, VMware, pfSense"
+
+"Java, Kotlin, PHP, JavaScript, React"
+
+"PostgreSQL, MySQL, Docker, GitHub"
 
 ## 💻 Principais Tecnologias e Ferramentas de Uso Diário
 
