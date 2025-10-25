@@ -17,16 +17,22 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">Concluído</td>
+<td align="center">Concluído ✔️</td>
 <td align="center">Técnico em Informática</td>
 <td align="center">Senac Tatuapé</td>
 <td align="center">2019-2021</td>
 </tr>
 <tr>
-<td align="center">Em Andamento</td>
+<td align="center">Concluído ✔️</td>
 <td align="center">Tecnólogo em Análise e Desenvolvimento de Sistemas</td>
-<td align="center">Faculdade Sena Santo Amaro</td>
+<td align="center">Faculdade Senac Santo Amaro</td>
 <td align="center">2022-2024</td>
+</tr>
+<tr>
+<td align="center">Em Andamento ⏳</td>
+<td align="center">MBA em Cyber Securety </td>
+<td align="center">Faculdade Impacta São Paulo </td>
+<td align="center">2025-2026</td>
 </tr>
 </tbody>
 </table>
