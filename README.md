@@ -37,14 +37,19 @@
 </tbody>
 </table>
 
- ## **Atualmente Gerente de Infraestrutura do Vigésmo Batalhão de Infantaria Blindado**
+**Atualmente Gerente de Infraestrutura do Vigésmo Batalhão de Infantaria Blindado**
 Atuo como Gerente de Infraestrutura de TI no Batalhão de Infantaria Blindado, sendo responsável pelo planejamento, implementação e manutenção da infraestrutura tecnológica da unidade.
 **Minhas atividades envolvem:**
-  ****Administração de servidores (Windows Server e Linux Server), serviços de rede e segurança.****
+ Administração de servidores (Windows Server e Linux Server), serviços de rede e segurança.
+ 
 Gerenciamento de usuários, permissões e políticas de acesso (GPO, autenticação e controle de privilégios).
+
 Monitoramento da rede e dos ativos de TI, garantindo disponibilidade, desempenho e integridade dos sistemas.
+
 Coordenação de backups, contingência e atualização de sistemas, assegurando a continuidade operacional.
+
 Suporte técnico e orientação às equipes internas, promovendo boas práticas de uso e segurança da informação.
+
 Gestão de infraestrutura física e lógica, incluindo cabeamento estruturado, switches, roteadores e firewalls (pfSense).
 Como responsável pela infraestrutura, atuo de forma estratégica para garantir que os recursos tecnológicos estejam sempre alinhados às necessidades operacionais e de segurança do Batalhão.
 
